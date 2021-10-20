@@ -14,7 +14,7 @@
 
 - [POS_konlpy.ipynb](https://github.com/GyuhoonK/munhwa_bigdata/blob/master/POS_konlpy.ipynb)
   - konlpy 패키지를 이용하여 형태소 분석 진행
-- Making_StopWords.ipynb
+- [Making_StopWords.ipynb](https://github.com/GyuhoonK/munhwa_bigdata/blob/master/Making_StopWords.ipynb)
   - 형태소 분석 결과를 바탕으로 불용어(stopword)를 결정
 
 - [shinhan.ipynb](https://github.com/GyuhoonK/munhwa_bigdata/blob/master/shinhan.ipynb)
